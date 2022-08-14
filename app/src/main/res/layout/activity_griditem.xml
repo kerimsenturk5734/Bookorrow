@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="0dp"
+    android:layout_marginTop="0dp"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/grid_img_bookimage"
+        android:layout_width="150dp"
+        android:layout_height="190dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/grid_tw_bookname"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/grid_img_bookimage"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="0dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="Kitap Adı"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/grid_tw_bookauthor"
+        android:layout_width="110dp"
+        android:layout_height="40dp"
+        android:layout_alignWithParentIfMissing="true"
+        android:layout_below="@+id/grid_tw_bookname"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_toEndOf="@+id/grid_tw_bookauthor2"
+        android:text="Yazar"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/grid_tw_bookauthor2"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignWithParentIfMissing="true"
+        android:layout_below="@+id/grid_tw_bookname"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="0dp"
+        android:text="Yazar"
+        android:textSize="10sp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/grid_tw_bookauthor3"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignWithParentIfMissing="true"
+        android:layout_below="@+id/grid_tw_bookauthor2"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="0dp"
+        android:text="Sayfa:"
+        android:textSize="10sp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/grid_tw_bookpage"
+        android:layout_width="110dp"
+        android:layout_height="40dp"
+        android:layout_alignWithParentIfMissing="true"
+        android:layout_below="@+id/grid_tw_bookauthor"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_toEndOf="@+id/grid_tw_bookauthor3"
+        android:text="Sayfa Sayısı"
+        android:textSize="10sp" />
+
+</RelativeLayout>

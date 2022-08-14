@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".griditem3">
+
+    <ImageView
+        android:id="@+id/img_loc"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_below="@+id/textView12"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_toEndOf="@+id/textView32"
+        android:src="@drawable/locationlogo" />
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="20dp"
+        android:layout_height="130dp"
+        android:layout_below="@+id/textView12"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_toEndOf="@+id/img_loc"
+        android:background="#7AEC7F" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img_loc"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="0dp"
+        android:background="#AA5AB8" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:background="#F44336" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="20dp"
+        android:layout_height="130dp"
+        android:layout_below="@+id/textView12"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="0dp"
+        android:background="#03A9F4" />
+</RelativeLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935739299985",
+    "project_id": "bookborrow-3117d",
+    "storage_bucket": "bookborrow-3117d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935739299985:android:414970f4a41221f84e0730",
+        "android_client_info": {
+          "package_name": "com.example.bookborrow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935739299985-3d7glniqmmdidkgb00k1k8une1rbc679.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx6040qjSmWuEgWUZqKyhxfjdcLsw6G68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935739299985-3d7glniqmmdidkgb00k1k8une1rbc679.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
