@@ -40,13 +40,13 @@
     <br />
       <a href="https://github.com/kerimsenturk5734/Bookorrow"><strong> »Dokümanlara göz at</strong></a>
         <br/>
-   ·<a href="https://github.com/kerimsenturk5734/Bookorrow/issues">Bu rapor et</a>·
+   ·<a href="https://github.com/kerimsenturk5734/Bookorrow/issues">Bug rapor et</a>·
       <br/>
       <br/><br/>
     <a href="https://github.com/kerimsenturk5734/Bookorrow/blob/master/README-tr.md" target="_blank" rel="noreferrer"> 
       <img src="https://emojigraph.org/media/twitter/flag-turkey_1f1f9-1f1f7.png" alt="tr" width="30" height="30"/>```Türkçe```
     </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/kerimsenturk5734/Bookorrow/blob/main/README.md" target="_blank" rel="noreferrer"> 
+      <a href="https://github.com/kerimsenturk5734/Bookorrow/blob/master/README.md" target="_blank" rel="noreferrer"> 
       <img src="https://preview.redd.it/68cdrlhal0hz.png?auto=webp&s=a7e6c8f70065646b72d45fc6ba12c6bb9bf56923" alt="en" width="30" height="20"/>```English```
     </a>  
 </div>
