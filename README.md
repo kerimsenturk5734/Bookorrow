@@ -27,7 +27,7 @@
 
   <p align="center">
     <a href="https://github.com/kerimsenturk5734/Bookorrow">
-    <img src="https://raw.githubusercontent.com/kerimsenturk5734/Bookorrow/master/logo4.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/kerimsenturk5734/Bookorrow/master/logo4.png" alt="Logo" width="100" height="74">
     </a>
     
    This repository contains a trading application where we can only buy books in exchange for books.
