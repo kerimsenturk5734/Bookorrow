@@ -43,7 +43,7 @@
    ·<a href="https://github.com/kerimsenturk5734/Bookorrow/issues">Report Bug</a>·
       <br/>
       <br/><br/>
-    <a href="https://github.com/kerimsenturk5734/Bookorrow/blob/main/README-tr.md" target="_blank" rel="noreferrer"> 
+    <a href="https://github.com/kerimsenturk5734/Bookorrow/blob/master/README-tr.md" target="_blank" rel="noreferrer"> 
       <img src="https://emojigraph.org/media/twitter/flag-turkey_1f1f9-1f1f7.png" alt="tr" width="30" height="30"/>```Türkçe```
     </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/kerimsenturk5734/Bookorrow/blob/main/README.md" target="_blank" rel="noreferrer"> 
