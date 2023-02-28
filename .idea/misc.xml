@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/BookBorrow/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2595" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/BookBorrow/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2595" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/BookBorrow/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/BookBorrow/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/BookBorrow/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/BookBorrow/app/src/main/res/layout/fragment_deals.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/BookBorrow/app/src/main/res/layout/fragment_explorer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/BookBorrow/app/src/main/res/menu/main_main.xml" value="0.4" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/BookBorrow/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/drawable/border.xml" value="0.2595" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/layout/activity_deal_selected.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/layout/activity_explorer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/layout/activity_explorer_deal_selected.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/layout/activity_griditem.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/layout/activity_griditem2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/layout/activity_griditem3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/layout/activity_locations.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/layout/activity_my_books.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/layout/activity_my_deals.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/layout/activity_my_selected_deal.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/layout/activity_select_book.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/layout/activity_splash_screen.xml" value="0.264" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/layout/activity_stream_book.xml" value="0.4" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/layout/activity_user_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/layout/fragment_explorer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kerim/Desktop/Dersler/MobilProgramlama/Calismalarim/Proje-1/BookBorrow/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

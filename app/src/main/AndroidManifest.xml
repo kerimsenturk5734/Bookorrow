@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bookborrow">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/applogo"
+
+        android:label="Bookorrow"
+        android:roundIcon="@drawable/applogo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Material3.DynamicColors.Light">
+
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@drawable/border" />
+
+        <activity
+            android:name=".griditem3"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityClasses.Locations"
+            android:exported="false" />
+        <activity
+            android:name=".griditem2"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityClasses.MySelectedDeal"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityClasses.SelectBook"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityClasses.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityClasses.StreamBook"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityClasses.MyDeals"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityClasses.Explorer"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityClasses.ExplorerDealSelected"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityClasses.UserProfile"
+            android:exported="false" />
+        <activity
+            android:name=".griditem"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityClasses.Register"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityClasses.Login"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityClasses.SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

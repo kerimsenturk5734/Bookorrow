@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityClasses.ExplorerDealSelected">
+
+    <TextView
+        android:id="@+id/ds_tw_offeradress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView72"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_toEndOf="@+id/textView31"
+        android:textSize="12sp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="57dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView72"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_toEndOf="@+id/ds_tw_offername"
+        android:text="Email:"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/textView70"
+        android:layout_width="139dp"
+        android:layout_height="42dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="38dp"
+        android:text="ALACAĞINIZ"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textView71"
+        android:layout_width="139dp"
+        android:layout_height="42dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="36dp"
+        android:layout_toEndOf="@+id/textView70"
+        android:text="VERECEĞİNİZ"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+    <GridView
+        android:id="@+id/ds_gridview"
+        android:layout_width="350dp"
+        android:layout_height="330dp"
+        android:layout_below="@+id/textView70"
+        android:layout_alignParentStart="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="23dp"
+        android:layout_marginTop="15dp"
+        android:background="#8BC34A"
+        android:layoutDirection="inherit"
+        android:numColumns="2" />
+
+    <TextView
+        android:id="@+id/textView72"
+        android:layout_width="367dp"
+        android:layout_height="39dp"
+        android:layout_below="@+id/ds_gridview"
+        android:layout_alignParentStart="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="20dp"
+        android:background="#000000"
+        android:text="Satıcı Bilgileri"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView73"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView72"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="10dp"
+        android:text="Ad:"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/ds_tw_offername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView72"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_toEndOf="@+id/textView73"
+        android:text="TextView"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/ds_btn_giveoffer"
+        android:layout_width="236dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ds_tw_offeradress"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="46dp"
+        android:text="Teklif Ver" />
+
+</RelativeLayout>
